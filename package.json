@@ -1,12 +1,15 @@
 {
   "name": "starter-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["heroku","massage"],
+  "author": "roy reyes",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
